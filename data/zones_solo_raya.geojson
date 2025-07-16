@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_name": "Nguter Industrial Zone",
+        "kabupaten": "Sukoharjo",
+        "status": "planned",
+        "priority": "yes",
+        "area_ha": 420,
+        "corridor": "south-central"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[110.8301, -7.7533], [110.8401, -7.7533], [110.8401, -7.7433], [110.8301, -7.7433], [110.8301, -7.7533]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_name": "Ngemplak Airport Zone",
+        "kabupaten": "Boyolali",
+        "status": "underway",
+        "priority": "yes",
+        "area_ha": 310,
+        "corridor": "northwest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[110.7401, -7.5201], [110.7501, -7.5201], [110.7501, -7.5101], [110.7401, -7.5101], [110.7401, -7.5201]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_name": "Jaten-Gondangrejo Belt",
+        "kabupaten": "Karanganyar",
+        "status": "planned",
+        "priority": "yes",
+        "area_ha": 500,
+        "corridor": "northeast"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[110.9501, -7.5701], [110.9601, -7.5701], [110.9601, -7.5601], [110.9501, -7.5601], [110.9501, -7.5701]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_name": "Ceper-Pedan Cluster",
+        "kabupaten": "Klaten",
+        "status": "early-study",
+        "priority": "yes",
+        "area_ha": 290,
+        "corridor": "eastern"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[110.7001, -7.6901], [110.7101, -7.6901], [110.7101, -7.6801], [110.7001, -7.6801], [110.7001, -7.6901]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_name": "Colomadu Hinterland",
+        "kabupaten": "Karanganyar",
+        "status": "connected-urban",
+        "priority": "yes",
+        "area_ha": 180,
+        "corridor": "urban fringe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[110.8901, -7.5401], [110.9001, -7.5401], [110.9001, -7.5301], [110.8901, -7.5301], [110.8901, -7.5401]]]
+      }
+    }
+  ]
+}
